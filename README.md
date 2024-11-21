@@ -21,6 +21,12 @@ crypto-wallet-manager/
 
 │   ├── node_modules/
 
+│   ├── public/
+
+│    │   ├── index.html   
+
+│    │   └── script.js  
+
 │   ├── src/
 
 │   ├── controllers/
